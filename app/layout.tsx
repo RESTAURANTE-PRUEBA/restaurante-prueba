@@ -22,7 +22,7 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/restaurant-outline.svg",
         type: "image/svg+xml",
       },
     ],
